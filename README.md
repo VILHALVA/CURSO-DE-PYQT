@@ -1,7 +1,7 @@
 # CURSO DE PYQT
 👨‍⚖️PYQT É UM CONJUNTO DE BINDINGS PARA O TOOLKIT GUI QT. ELE PERMITE O USO DA BIBLIOTECA QT COM A LINGUAGEM PYTHON PARA CRIAR INTERFACES GRÁFICAS DE USUÁRIO (GUIS) ROBUSTAS E MULTIPLATAFORMA.
 
-<img src="FOTO.png" align="center" width="400"> <br>
+<img src="IMAGEM.png" align="center" width="400"> <br>
 
 ## CONCEITO:
 PyQt é um conjunto de bindings para o toolkit GUI Qt, desenvolvido pela empresa Riverbank Computing. Ele permite que desenvolvedores usem a biblioteca Qt com a linguagem de programação Python para criar interfaces gráficas de usuário (GUIs) robustas e multiplataforma.
